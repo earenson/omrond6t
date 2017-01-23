@@ -33,3 +33,4 @@ Notes
 -----
 - bytes_read == 0 indicates failure to read data from sensor array
 - This module, currently, converts all temperatures to Farenheit
+- Use 5.6k pulldown resistors on both channels
